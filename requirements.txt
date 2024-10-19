@@ -1,0 +1,6 @@
+loguru
+selenium
+langchain
+langchain-google-genai
+flask
+selenium_utils @git+https://github.com/vinaysheelsagar/Selenium-Utils.git
